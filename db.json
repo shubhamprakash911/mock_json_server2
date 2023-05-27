@@ -1,0 +1,89 @@
+{
+  "freelancers": [
+    {
+      "name": "mr bean",
+      "image": "https://i.pinimg.com/474x/86/3d/29/863d29057731abffa17c66d2c8f75746.jpg",
+      "password": "123",
+      "profession": "graphic designer",
+      "skills": "a,v,b,d",
+      "hour": "33",
+      "isBooked": true,
+      "id": 8
+    },
+    {
+      "name": "mr bean",
+      "image": "https://i.pinimg.com/474x/86/3d/29/863d29057731abffa17c66d2c8f75746.jpg",
+      "password": "123",
+      "profession": "graphic designer",
+      "skills": [
+        "a",
+        "v",
+        "b",
+        "d"
+      ],
+      "hour": 46455,
+      "isBooked": true,
+      "id": 9
+    },
+    {
+      "name": "mr bean",
+      "image": "https://i.pinimg.com/474x/86/3d/29/863d29057731abffa17c66d2c8f75746.jpg",
+      "password": "123",
+      "profession": "graphic designer",
+      "skills": [
+        "a",
+        "v",
+        "b",
+        "d"
+      ],
+      "hour": 8,
+      "isBooked": false,
+      "id": 10
+    },
+    {
+      "name": "shubham",
+      "image": "https://i.pinimg.com/474x/86/3d/29/863d29057731abffa17c66d2c8f75746.jpg",
+      "password": "123",
+      "profession": "student",
+      "skills": [
+        "a",
+        "v",
+        "b",
+        "d"
+      ],
+      "hour": 45,
+      "isBooked": false,
+      "id": 11
+    },
+    {
+      "name": "shubham",
+      "image": "https://i.pinimg.com/474x/86/3d/29/863d29057731abffa17c66d2c8f75746.jpg",
+      "password": "123",
+      "profession": "graphic designer",
+      "skills": [
+        "a",
+        "v",
+        "b",
+        "d"
+      ],
+      "hour": 45,
+      "isBooked": false,
+      "id": 12
+    },
+    {
+      "name": "shubham",
+      "image": "https://i.pinimg.com/474x/86/3d/29/863d29057731abffa17c66d2c8f75746.jpg",
+      "password": "123",
+      "profession": "web developer",
+      "skills": [
+        "a",
+        "v",
+        "b",
+        "d"
+      ],
+      "hour": 45,
+      "isBooked": false,
+      "id": 13
+    }
+  ]
+}
